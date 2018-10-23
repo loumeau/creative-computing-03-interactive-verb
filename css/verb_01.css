@@ -54,7 +54,7 @@ body {
 
 button.back_button {
     padding: 8px 12px;
-    border: 1.4px solid #0000;
+    border: 1.4px solid #fff;
     border-radius: 8px;
     box-shadow: rgb(209, 209, 209) 2px 2px 0px 0px;
 }
@@ -102,7 +102,7 @@ div {
 
 @keyframes d-drip {
   0% {background-color:red; transform: translateY(0px)}
-  50% {background-color: lightpink;)}
+  50% {background-color: lightpink;}
   100% {background-color:transparent; transform: translateY(100px)}
 }
 
@@ -122,7 +122,7 @@ div {
 
 @keyframes r-drip {
   0% {background-color:red; transform: translateY(0px)}
-  50% {background-color: lightpink;)}
+  50% {background-color: lightpink;}
   100% {background-color:transparent; transform: translateY(50px)}
 }
 
@@ -141,7 +141,7 @@ div {
 
 @keyframes one-drip {
   0% {background-color:red; transform: translateY(0px)}
-  50% {background-color: lightpink;)}
+  50% {background-color: lightpink;}
   100% {background-color:transparent; transform: translateY(600px)}
 }
 
@@ -160,7 +160,7 @@ div {
 
 @keyframes otwo-drip {
   0% {background-color:red; transform: translateY(0px)}
-  50% {background-color: lightpink;)}
+  50% {background-color: lightpink;}
   100% {background-color:transparent; transform: translateY(300px)}
 }
 
@@ -179,7 +179,7 @@ div {
 
 @keyframes p-drip {
   0% {background-color:red; transform: translateY(0px)}
-  50% {background-color: lightpink;)}
+  50% {background-color: lightpink;}
   100% {background-color:transparent; transform: translateY(150px)}
 }
 
